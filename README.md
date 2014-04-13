@@ -1,0 +1,4 @@
+apptest
+=======
+
+test function rails 
